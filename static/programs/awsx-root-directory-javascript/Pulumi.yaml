@@ -1,0 +1,5 @@
+name: awsx-root-directory-javascript
+runtime:
+  name: nodejs
+  options:
+    typescript: false
